@@ -6,3 +6,4 @@
 
 ### Students:
 * Sam Stoodent
+* Nazifa Bakhshi
