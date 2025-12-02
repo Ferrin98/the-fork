@@ -6,3 +6,4 @@
 
 ### Students:
 * Sam Stoodent
+* Katalina Demara
