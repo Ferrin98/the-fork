@@ -8,3 +8,4 @@
 * Sam Stoodent
 * Nazifa Bakhshi
 * Razma Jalali
+* Juan Rojas 
