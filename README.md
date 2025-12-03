@@ -11,3 +11,4 @@
 * Juan Rojas 
 * Anthony Baca
 * Ashton Farley
+* Tristan Griffin
