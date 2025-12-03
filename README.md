@@ -7,3 +7,4 @@
 ### Students:
 * Sam Stoodent
 * Nazifa Bakhshi
+* Razma Jalali
