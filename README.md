@@ -20,3 +20,4 @@
 * Micah Solomon
 * Zackary Zimmerman
 * Severin Martin
+* Matt Talley
