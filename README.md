@@ -14,9 +14,9 @@
 * Tristan Griffin
 * Nick Cuttlers
 * Bryan Wong
-<<<<<<< HEAD
 * Ruari Green
 * Isaac Larsen
 * Angela Torres
 * Micah Solomon
 * Zackary Zimmerman
+* Severin Martin
