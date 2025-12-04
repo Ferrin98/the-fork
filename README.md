@@ -6,7 +6,6 @@
 
 ### Students:
 * Sam Stoodent
-* Micah Solomon
 * Nazifa Bakhshi
 * Razma Jalali
 * Juan Rojas 
@@ -15,6 +14,9 @@
 * Tristan Griffin
 * Nick Cuttlers
 * Bryan Wong
+<<<<<<< HEAD
 * Ruari Green
 * Isaac Larsen
 * Angela Torres
+* Micah Solomon
+* Zackary Zimmerman
